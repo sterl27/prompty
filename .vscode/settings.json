@@ -1,0 +1,19 @@
+{
+    "chat.mcp.serverSampling": {
+        "prompty/.vscode/mcp.json: huggingface/hf-mcp-server": {
+            "allowedModels": [
+                "openrouter/OpenRouter/nvidia/llama-3.3-nemotron-super-49b-v1.5",
+                "openrouter/OpenRouter/nvidia/nemotron-3-nano-30b-a3b",
+                "openrouter/OpenRouter/nvidia/nemotron-3-nano-30b-a3b:free",
+                "openrouter/OpenRouter/nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+                "openrouter/OpenRouter/nvidia/nemotron-3-super-120b-a12b",
+                "openrouter/OpenRouter/nvidia/nemotron-3-super-120b-a12b:free",
+                "openrouter/OpenRouter/nvidia/nemotron-nano-12b-v2-vl:free",
+                "openrouter/OpenRouter/nvidia/nemotron-nano-9b-v2",
+                "openrouter/OpenRouter/nvidia/nemotron-nano-9b-v2:free",
+                "openrouter/OpenRouter/x-ai/grok-4.20",
+                "openrouter/OpenRouter/x-ai/grok-4.3"
+            ]
+        }
+    }
+}
