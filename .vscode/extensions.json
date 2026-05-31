@@ -1,0 +1,6 @@
+{
+    "recommendations": [
+        "ms-toolsai.datawrangler",
+        "ms-vscode-remote.remote-ssh"
+    ]
+}

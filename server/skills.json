@@ -1,0 +1,26 @@
+[
+  {
+    "id": "demo1",
+    "name": "Summarize Text",
+    "category": "writing",
+    "instructions": "Summarize the following text in a {{style}} style (e.g. bullet points, paragraph, executive summary), keeping it under {{word_limit}} words.\n\nText to summarize:\n{{text}}",
+    "createdAt": "2026-05-16T00:00:00.000Z",
+    "updatedAt": "2026-05-16T00:00:00.000Z"
+  },
+  {
+    "id": "demo2",
+    "name": "Code Review",
+    "category": "code",
+    "instructions": "Review the following {{language}} code for bugs, security issues, and style improvements.\n\nCode:\n{{code}}\n\nFocus on: correctness, performance, readability, and potential security vulnerabilities. Provide specific, actionable feedback.",
+    "createdAt": "2026-05-16T00:00:00.000Z",
+    "updatedAt": "2026-05-16T00:00:00.000Z"
+  },
+  {
+    "id": "demo3",
+    "name": "Stitch Live Designer",
+    "category": "design",
+    "instructions": "Role: Act as a precise live design operator for the Stitch AI design interface.\n\nContext: Analyze the current webpage and identify active design elements, selected layers, constraints, and visible UI state.\n\nTask:\n1. Convert the user's request into concrete design edits.\n2. Generate the required technical steps or tool commands for real-time execution.\n3. Return a step-by-step application plan that preserves existing layout, naming, styling, and constraints.\n\nOutput: Provide concise ordered actions, call out assumptions, and flag any edit that needs user confirmation.",
+    "createdAt": "2026-05-16T00:00:00.000Z",
+    "updatedAt": "2026-05-16T00:00:00.000Z"
+  }
+]
